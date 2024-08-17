@@ -1,0 +1,42 @@
+{
+  "tacrev": {
+    "train": "data/tacrev/train.txt",
+    "val": "data/tacrev/val.txt",
+    "test": "data/tacrev/test.txt",
+    "k-shot": "data/tacrev/k-shot/",
+    "percent": "data/tacrev/percent/",
+    "rel2id": "data/tacrev/rel2id.json"
+  },
+  "tacred": {
+    "train": "data/tacred/train.txt",
+    "val": "data/tacred/val.txt",
+    "test": "data/tacred/test.txt",
+    "k-shot": "data/tacred/k-shot/",
+    "percent": "data/tacred/percent/",
+    "rel2id": "data/tacred/rel2id.json"
+  },
+  "retacred": {
+    "train": "data/retacred/train.txt",
+    "val": "data/retacred/val.txt",
+    "test": "data/retacred/test.txt",
+    "k-shot": "data/retacred/k-shot/",
+    "percent": "data/retacred/percent/",
+    "rel2id": "data/retacred/rel2id.json"
+  },
+  "semeval": {
+    "train": "data/semeval/train.txt",
+    "val": "data/semeval/val.txt",
+    "test": "data/semeval/test.txt",
+    "k-shot": "data/semeval/k-shot/",
+    "percent": "data/semeval/percent/",
+    "rel2id": "data/semeval/rel2id.json"
+  },
+  "scierc": {
+    "train": "data/scierc/train.txt",
+    "val": "data/scierc/val.txt",
+    "test": "data/scierc/test.txt",
+    "k-shot": "data/scierc/k-shot/",
+    "percent": "data/scierc/percent/",
+    "rel2id": "data/scierc/rel2id.json"
+  }
+}
